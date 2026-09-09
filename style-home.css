@@ -1,0 +1,30 @@
+h1{
+    color: green;
+    font-size: 50px;
+    text-align: center;
+    background-color: beige;
+}
+h2{
+    color: brown;
+    text-align: center;
+}
+body{
+    background-image: url("https://media.tenor.com/ERtYvOl4FoQAAAAM/kimi-antonelli-shaka.gif");
+    background-size: auto;
+}
+img{
+    width: 250px;
+}
+footer{
+    background-color: rgb(o, 255, 115);
+    color: rgba(220, 20, 60, 0.493);
+}
+.imagem{
+    text-align: center;
+    background-color: rgba(165, 42, 42, 0.452);
+    width: 400px;
+    margin: auto;
+    border-style: double;
+    border-radius: 50px;
+    border-color: chocolate;
+}
